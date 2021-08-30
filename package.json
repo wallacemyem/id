@@ -19,5 +19,9 @@
         "postcss": "^8.1.14",
         "postcss-import": "^14.0.1",
         "tailwindcss": "^2.2.2"
+    },
+    "dependencies": {
+        "@dicebear/avatars": "^4.7.4",
+        "@dicebear/avatars-human-sprites": "^4.7.4"
     }
 }
